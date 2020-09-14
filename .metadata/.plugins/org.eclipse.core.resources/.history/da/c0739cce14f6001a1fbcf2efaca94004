@@ -1,0 +1,5 @@
+package Class_Conct;
+
+public class Hospital implements Hospital_Interface.Hospital{
+
+}

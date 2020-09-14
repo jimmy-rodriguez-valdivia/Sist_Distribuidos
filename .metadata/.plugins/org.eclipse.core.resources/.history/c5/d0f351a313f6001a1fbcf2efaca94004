@@ -1,0 +1,6 @@
+package Hospital;
+
+public interface Person {
+	public void SetDNI();
+	public String GetDNI(String DNI);
+}

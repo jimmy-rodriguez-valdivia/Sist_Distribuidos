@@ -1,0 +1,5 @@
+package Hospital;
+
+public interface Sanatorium_Servicos_SuperInterface {
+
+}

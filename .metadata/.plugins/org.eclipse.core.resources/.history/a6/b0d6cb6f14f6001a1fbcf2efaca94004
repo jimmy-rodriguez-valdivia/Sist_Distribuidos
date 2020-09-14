@@ -1,0 +1,8 @@
+package Hospital;
+
+public interface Person_SuperInterface {
+	public void SetFullName();
+	public String GetFullName(String fullName);
+	public void SetDNI();
+	public String GetDNI(String DNI);
+}

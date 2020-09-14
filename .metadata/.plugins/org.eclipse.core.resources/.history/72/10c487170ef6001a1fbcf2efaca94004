@@ -1,0 +1,5 @@
+package CalculadoraBasica;
+
+public interface OperacionesInterface {
+
+}

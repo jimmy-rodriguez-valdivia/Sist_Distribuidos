@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\UNIVERSIDAD\CURSOS\SISDT\Proyectos_Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3470097111.index
+3186337711.index
+1567145573.index

@@ -1,0 +1,70 @@
+package Class_Conct;
+
+import Hospital_Interface.Person_SuperInterface;
+import Hospital_Interface.Sanatorium_Servicos_SuperInterface;
+
+public class Class_Peresonal implements Sanatorium_Servicos_SuperInterface, Person_SuperInterface {
+
+	private String direction;
+	private String telephone;
+	private String fullName;
+	private String dni;
+	private String cargo;
+	
+	
+	
+	public Class_Peresonal(String direction, String telephone, String fullName, String dni, String cargo) {
+		super();
+		this.direction = direction;
+		this.telephone = telephone;
+		this.fullName = fullName;
+		this.dni = dni;
+		this.cargo = cargo;
+	}
+
+	@Override
+	public void SetDirection() {
+	}
+
+	@Override
+	public String GetDirection(String direction) {
+		return direction;
+	}
+
+	@Override
+	public void Telephone() {	
+	}
+
+	@Override
+	public String GetTelephone(String telephone) {
+		return telephone;
+	}
+
+	@Override
+	public void SetFullName() {
+	}
+
+	@Override
+	public String GetFullName(String fullName) {
+		return fullName;
+	}
+
+	@Override
+	public void SetDNI() {
+	}
+
+	@Override
+	public String GetDNI(String DNI) {
+		return dni;
+	}
+
+	@Override
+	public void SetCargo() {
+	}
+
+	@Override
+	public String GetCargo() {
+		return cargo;
+	}
+
+}

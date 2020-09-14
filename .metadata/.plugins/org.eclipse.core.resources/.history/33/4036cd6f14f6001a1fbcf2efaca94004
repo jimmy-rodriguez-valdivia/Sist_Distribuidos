@@ -1,0 +1,8 @@
+package Hospital;
+
+public interface Hospital extends Sanatorium_Servicos_SuperInterface{
+	public void SetName();
+	public String GetName(String name);
+	public void SetFax();
+	public String GetFax(String Fax);
+}

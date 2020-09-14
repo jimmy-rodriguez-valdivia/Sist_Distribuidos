@@ -1,0 +1,10 @@
+package Example1;
+import java.io.PrintWriter;
+
+public class CallbackTest {
+	public static void main(String args[]) {
+		LoopingClient client = new LoopingClient();
+		new MessageServer(5, 100, client); //create a new server
+		client.run();
+	}
+}

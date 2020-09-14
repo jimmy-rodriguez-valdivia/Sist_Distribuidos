@@ -1,0 +1,6 @@
+package PaqueteOperaciones;
+
+
+public interface OperacionesInterface {
+	
+}

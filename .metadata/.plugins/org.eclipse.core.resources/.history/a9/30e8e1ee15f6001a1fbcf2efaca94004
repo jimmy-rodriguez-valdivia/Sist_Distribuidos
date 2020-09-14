@@ -1,0 +1,42 @@
+package Class_Conct;
+
+public class Class_Hospital implements Hospital_Interface.Hospital{
+
+	
+	@Override
+	public void SetDirection() {
+	}
+
+	@Override
+	public String GetDirection(String direction) {
+		return null;
+	}
+
+	@Override
+	public void Telephone() {
+	}
+
+	@Override
+	public String GetTelephone(String telephone) {
+		return null;
+	}
+
+	@Override
+	public void SetName() {
+	}
+
+	@Override
+	public String GetName(String name) {
+		return null;
+	}
+
+	@Override
+	public void SetFax() {
+	}
+
+	@Override
+	public String GetFax(String Fax) {
+		return null;
+	}
+
+}
