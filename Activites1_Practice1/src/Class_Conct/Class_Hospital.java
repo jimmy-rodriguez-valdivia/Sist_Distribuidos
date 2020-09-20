@@ -1,6 +1,6 @@
 package Class_Conct;
 
-public class Class_Hospital
+public class Class_Hospital {
 	private String direction;
 	private String telephone;
 	private String name;

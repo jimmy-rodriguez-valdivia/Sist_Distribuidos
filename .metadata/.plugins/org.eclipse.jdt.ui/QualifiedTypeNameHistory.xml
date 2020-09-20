@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="MessagePrintable"/>
+<fullyQualifiedTypeName name="MessageServer"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="PaqueteOperaciones.OperacionesInterface"/>
+<fullyQualifiedTypeName name="PaqueteOperaciones.OperacionesImpl"/>
+<fullyQualifiedTypeName name="Hospital.Person"/>
+<fullyQualifiedTypeName name="Hospital.Sanatorium_Servicos_SuperInterface"/>
+<fullyQualifiedTypeName name="Hospital_Interface.Hospital"/>
+<fullyQualifiedTypeName name="Hospital_Interface.Patient"/>
+<fullyQualifiedTypeName name="Hospital_Interface.Sanatorium_Servicos_SuperInterface"/>
+<fullyQualifiedTypeName name="Hospital_Interface.Person_SuperInterface"/>
+<fullyQualifiedTypeName name="SimpleThread"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
